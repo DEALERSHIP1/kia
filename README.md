@@ -6,10 +6,10 @@ Repository name: kia
 Join organization
 Write access granted to all members
 
-1. Clone kia code to your local
+1. Clone kia code to your remote repo
 2. List to see you repo
 3. Check your branch
-4. Create a file name: “cars-your name” in your repo
+4. Edit a file name: cars in you working area
 5. Check status
 6. Add the file
 7. Check status
@@ -27,7 +27,7 @@ CLASS PROJECT 2
 
 1. Pull repo
 2. Check your branch
-3. Create a new branch name stage
+3. Create a new branch name stage and dev
 4. Switch branch to dev 
 5. Edit your file from project-1 with your own information
 6. Add and commit changes and push to dev branch in remote repo (GitHub)

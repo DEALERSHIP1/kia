@@ -6,7 +6,7 @@ Repository name: kia
 Join organization
 Write access granted to all members
 
-1. Clone kia code to your remote repo
+1. Clone kia code to your local env
 2. List to see you repo
 3. Check your branch
 4. Edit a file name: cars in you working area
